@@ -11,7 +11,7 @@ module.exports = {
 		"other"
 	],
 	"created_at": "2016-03-09T14:04:39Z",
-	"updated_at": "2020-07-16T13:35:45Z",
+	"updated_at": "2020-08-06T14:06:23Z",
 	"source_locale": null,
 	"keys": {
 		"action_label": "Darbība",
